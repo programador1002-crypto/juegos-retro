@@ -1,0 +1,45 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 15px;
+    background-color: rgb(245, 160, 160);
+}
+
+
+
+.MK64 {
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(224, 182, 152);
+
+}
+
+.MC {
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(224, 182, 152);
+
+}
+
+.PAC {
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(224, 182, 152);
+
+}
+
+.TKOF {
+    text-decoration: none;
+    border-radius: 5px;
+    background-color: rgb(224, 182, 152);
+
+}
+.title{
+  color: black;
+  font-size: 35px;
+  transition: 0.5s ease-in-out;
+}
+
+.title:hover {
+    color: red;
+    font-size: 50px;
+}
